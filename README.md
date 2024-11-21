@@ -3,7 +3,7 @@
 ## 第一次使用
 第一次使用時，你可以使用以下指令將tmux下載至你的電腦並配置
 ```
-git pull git@github.com:HantingSu/tmux_config.git
+git clone git@github.com:HantingSu/tmux_config.git
 tmux source ~/.tmux.conf
 ```
 
