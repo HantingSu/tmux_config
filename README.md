@@ -11,7 +11,7 @@ git clone git@github.com:HantingSu/tmux_config.git
 mkdir ~/.tmux
 cd ~/.tmux
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-cp ~/tmux_config/.tmux.conf
+cp ~/tmux_config/.tmux.conf ~
 tmux source ~/.tmux.conf
 ```
 
